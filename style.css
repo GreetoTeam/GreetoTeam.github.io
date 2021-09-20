@@ -1,0 +1,56 @@
+*{
+				margin:0;
+}
+body {
+				background-image:url(bg2.jpg) ;
+			  height: 1000px;
+			
+}
+.pp {
+				background-image:url(br2.jpg);
+				width: 200px;
+				height:200px;
+				margin:auto;
+				margin-top:100px;
+				border-radius:50%;
+}
+.wa{
+				background-image:url(wa.png);
+				width: 50px;
+				paddin:w2
+}
+
+table{
+				margin:auto;
+				margin-top: 50px;
+				
+				width: 80%;
+				cellpadding:500x;
+			
+}
+.link table td{
+				border:5px solid black;
+				
+				height: 50px;
+			  width: 80%;
+				background: #595961;
+				color: white;
+				
+				
+}
+
+.link table td a{
+			  display:block;
+					color:white;
+				
+				text-align:center;
+}
+h5{
+				font-size:15px;
+}
+h4{
+				text-align:center;
+				margin-top:100%;
+				font-size: 30px;
+				color: #b1b1c1;
+}
